@@ -27,9 +27,9 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css","../pilot-project/node_modules/bootstrap/dist/css/bootstrap.css"
             ],
-            "scripts": []
+            "scripts": ["../pilot-project/node_modules/bootstrap/dist/js/bootstrap.esm.js"]
           },
           "configurations": {
             "production": {
